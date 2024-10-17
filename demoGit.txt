@@ -16,3 +16,5 @@ git diff ---> used to know  before stage what is the different  happend after co
 ---> after added in the stage file use key word  git diff -- staged 
 
 
+
+remove 
