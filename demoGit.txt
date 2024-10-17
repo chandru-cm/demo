@@ -17,4 +17,4 @@ git diff ---> used to know  before stage what is the different  happend after co
 
 
 
-remove 
+remove
