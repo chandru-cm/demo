@@ -12,4 +12,7 @@ for the third commitin the git i use this line ....
 directly commited by using git commit -a-m "message" --- > without adding 
 
 
-git diff 
+git diff ---> used to know  before stage what is the different  happend after commit in the file 
+---> after added in the stage file use key word  git diff -- staged 
+
+
