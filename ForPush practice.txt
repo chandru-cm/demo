@@ -1,0 +1,3 @@
+Hai  welcom all 
+clearq
+Tag using command git tag -a v1.0 -m " message"
