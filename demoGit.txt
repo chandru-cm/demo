@@ -1,8 +1,15 @@
 sample text file  gor git learning git
 
+
+git commit add. Or  git commit add filename
+
 For the second commit  this is help[ful]
 
 
 
 
 for the third commitin the git i use this line ....
+directly commited by using git commit -a-m "message" --- > without adding 
+
+
+git diff 
